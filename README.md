@@ -10,6 +10,8 @@ I am thinking to start a new trend for this repo😂😉🤔! #The-First-Step-Of
 <br>
 This repository work was done by [Anadya Nair](https://github.com/AnadyaNair). Thanks for visiting!
 
+<hr>
+
 # Topics Covered🌟:
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
 - [x] [How to add images](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HowToAddImages.html)
