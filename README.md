@@ -11,7 +11,7 @@
 
 <hr>
 
-## Topics Covered in this repo🌟:
+## Topics covered to learn🌟:
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
 - [x] [How to add images](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HowToAddImages.html)
 - [ ] [How to add videos]()
