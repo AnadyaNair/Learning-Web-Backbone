@@ -21,6 +21,7 @@
 - [ ] [Using heading tags]()
 - [ ] [Using paragraph tags]()
 - [ ] [Creating a div]()
+- [ ] [Commenting lines]()
 - [ ] [Creating a span element]()
 - [ ] [Using break tags]()
 - [ ] [Using horizontal rule tags]()
