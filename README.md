@@ -8,6 +8,7 @@
 
 > This repository work was done by [Anadya Nair](https://github.com/AnadyaNair). Thanks for visiting! <br>
 > If you find this good, feel free to share with others an star this repository! <br>
+> Happy learning!
 
 <hr>
 
