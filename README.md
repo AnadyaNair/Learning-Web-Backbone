@@ -9,7 +9,7 @@
 > Add/create **[issues](https://github.com/AnadyaNair/The-First-Step-Of-HTML/issues)** and consider ``contributing/giving feedback`` to the repository. <br>
 > **The code is free to copy, believing in *[#DEVCommunity](https://twitter.com/search?q=%23DEVCommunity&src=typeahead_click) [#OpenSource](https://twitter.com/search?q=%23OpenSource&src=typeahead_click)* and learning.**
 
-> This repository work was done by [Anadya Nair](https://github.com/AnadyaNair). Thanks for visiting! <br>
+> This repository work was done by [Anadya](https://github.com/AnadyaNair). Thanks for visiting! <br>
 > If you find this good, feel free to share with others an star this repository! <br>
 > Happy learning!
 
