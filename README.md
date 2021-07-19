@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-#### 🔗https://github.com/AnadyaNair/The-First-Step-Of-HTML
+#### 🔗 | https://github.com/AnadyaNair/The-First-Step-Of-HTML
 > Here, you can learn the basics of HTML in one repository for **free**! <br>
 
 > Add/create **[issues](https://github.com/AnadyaNair/The-First-Step-Of-HTML/issues)** and consider ``contributing/giving feedback`` to the repository. <br>
@@ -18,9 +18,10 @@
 ## Topics covered to learn🌟:
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
 - [x] [How to add images](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HowToAddImages.html)
-- [x] [How to add videos]()
-- [ ] [How to add links]()
+- [x] [How to add videos](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/How_To_Add_Videos.html)
+- [x] [How to add links](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/How_To_Add_Links.html)
 - [ ] [What is META/how to add META]()
+- [ ] [Connecting a file to HTML file]()
 - [ ] [Your first styled webpage]()
 - [ ] [Using heading tags]()
 - [ ] [Using paragraph tags]()
