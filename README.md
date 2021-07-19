@@ -3,6 +3,7 @@
 </p>
 <hr>
 
+## Description:
 #### 🔗 | https://github.com/AnadyaNair/The-First-Step-Of-HTML
 > Here, you can learn the basics of HTML in one repository for **free**! <br>
 
@@ -13,6 +14,11 @@
 > If you find this good, feel free to share with others an star this repository! <br>
 > Happy learning!
 
+<hr>
+
+## What do you mean by HTML?
+> HTML is a programming language used to create websites. HTML can also be called backbone of a website in simple words. <br>
+> HTML stands for Hyper Text Markup Language.
 <hr>
 
 ## Topics covered to learn🌟:
