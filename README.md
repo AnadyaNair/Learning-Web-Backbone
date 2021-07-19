@@ -18,7 +18,8 @@
 
 ## What do you mean by HTML?
 > HTML is a programming language used to create websites. HTML can also be called backbone of a website in simple words. <br>
-> HTML stands for Hyper Text Markup Language.
+> HTML stands for Hyper Text Markup Language. <br>
+> The extension for a html file is ".html"
 <hr>
 
 ## Topics covered to learn🌟:
