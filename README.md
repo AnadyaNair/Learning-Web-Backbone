@@ -18,7 +18,7 @@
 ## Topics covered to learn🌟:
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
 - [x] [How to add images](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HowToAddImages.html)
-- [ ] [How to add videos]()
+- [x] [How to add videos]()
 - [ ] [How to add links]()
 - [ ] [What is META/how to add META]()
 - [ ] [Your first styled webpage]()
