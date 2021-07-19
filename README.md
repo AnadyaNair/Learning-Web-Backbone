@@ -1,4 +1,7 @@
-<h1 align="center"> Welcome to The First Step Of HTML👋!</h1>
+<p align="center">
+<img width="900" src="https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/43eb4393989c19f0357d919a1dd69b9e539fc7ed/assets/readme_cover.png"></img>
+</p>
+<hr>
 
 ### 🔗https://github.com/AnadyaNair/The-First-Step-Of-HTML
 > Here, you can learn the basics of HTML in one repository for **free**! <br>
