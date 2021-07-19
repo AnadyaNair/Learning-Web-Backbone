@@ -16,6 +16,7 @@
 <hr>
 
 ## Topics covered to learn🌟:
+> The files have been numbered accordingly to this list. The files may not occur in number wise order in GitHub, please cooperate if so.
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
 - [x] [How to add images](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HowToAddImages.html)
 - [x] [How to add videos](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/How_To_Add_Videos.html)
