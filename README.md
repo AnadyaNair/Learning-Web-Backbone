@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-### 🔗https://github.com/AnadyaNair/The-First-Step-Of-HTML
+## 🔗https://github.com/AnadyaNair/The-First-Step-Of-HTML
 > Here, you can learn the basics of HTML in one repository for **free**! <br>
 
 > Add/create **[issues](https://github.com/AnadyaNair/The-First-Step-Of-HTML/issues)** and consider ``contributing/giving feedback`` to the repository. <br>
