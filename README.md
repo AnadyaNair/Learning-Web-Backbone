@@ -31,4 +31,4 @@
 - [ ] [Using break tags]()
 - [ ] [Using horizontal rule tags]()
 
-# Thanks for visiting Happy learning!
+# Thanks for visiting, happy learning!
