@@ -22,6 +22,9 @@
 > The extension for a html file is ".html"
 <hr>
 
+
+## Practice to do:
+- [HTML codepens]()
 ## Topics covered to learn🌟:
 > The files have been numbered accordingly to this list. The files may not occur in number wise order in GitHub, please cooperate if so.
 - [x] [First Document](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/HTMLFirstSteps.html)
