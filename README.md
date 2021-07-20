@@ -18,6 +18,8 @@
 
 ## What do you mean by HTML?
 > HTML is a programming language used to create websites. HTML can also be called backbone of a website in simple words. <br>
+> We create the structures of webpages in HTML most of the times and style it using another language called CSS. <br>
+> In simple words, you can understand it like this with an example: Your bones are HTML, your muscles are CSS and yor brain is JavaScript. <br>
 > HTML stands for Hyper Text Markup Language. <br>
 > The extension for a html file is ".html"
 <hr>
