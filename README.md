@@ -34,7 +34,7 @@
 - [x] [How to add videos](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/How_To_Add_Videos.html)
 - [x] [How to add links](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/How_To_Add_Links.html)
 - [x] [What is META/how to add META](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/Learning_about_META.html)
-- [ ] [Connecting a file to HTML file]()
+- [x] [Connecting a file to HTML file](https://github.com/AnadyaNair/The-First-Step-Of-HTML/blob/main/Connecting_another_file_to_your_root_file.html)
 - [ ] [Your first styled webpage]()
 - [ ] [Using heading tags]()
 - [ ] [Using paragraph tags]()
