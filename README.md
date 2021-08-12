@@ -44,4 +44,7 @@
 - [ ] [Using break tags]()
 - [ ] [Using horizontal rule tags]()
 
+## Secret tricks 🤫
+- [] [target="_blank" trick!]()
+
 # Thanks for visiting, happy learning!
