@@ -53,6 +53,6 @@ The files have been numbered accordingly to this list. The files may not occur i
 - [ ] [Using horizontal rule tags]()
 
 ## Secret tricks you might not know! 🤫
-- [ ] [target= underscore blank trick!]()
+- [ ] [The target attribute](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
 
 # Thanks for visiting, happy learning!
