@@ -1,11 +1,10 @@
 <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge"></img>
+<img src="https://img.shields.io/github/last-commit/AnadyaNair/Learning-Web-Backbone?style=for-the-badge"></img>
 <br> <br>
-<img src="https://img.shields.io/github/forks/AnadyaNair/Learning-Web-Backbone?style=social"></img>
-<img src="https://img.shields.io/github/stars/AnadyaNair/Learning-Web-Backbone?style=social"></img>
-<img src="https://img.shields.io/github/watchers/AnadyaNair/Learning-Web-Backbone?style=social"></img>
-<br>
-<img src="https://img.shields.io/github/all-contributors/AnadyaNair/Learning-Web-Backbone?style=flat-square"></img>
-<img src="https://img.shields.io/github/last-commit/AnadyaNair/Learning-Web-Backbone?style=flat-square"></img>
+<img width="100" src="https://img.shields.io/github/forks/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+<img width="100" src="https://img.shields.io/github/stars/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+<img width="100" src="https://img.shields.io/github/watchers/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+
 
 ## Details:
 #### 🔗 https://github.com/AnadyaNair/Learning-Web-Backbone
@@ -37,22 +36,25 @@ HTML current version is HTML5.
 
 ## Topics covered to learn🌟:
 The files have been numbered accordingly to this list. The files may not occur in number wise order in GitHub, please cooperate if so.
-- [x] [First Document](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HTMLFirstSteps.html)
-- [x] [How to add images](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HowToAddImages.html)
-- [x] [How to add videos](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/How_To_Add_Videos.html)
-- [x] [How to add links](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/How_To_Add_Links.html)
-- [x] [What is META/how to add META](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/Learning_about_META.html)
-- [x] [Connecting a file to HTML file](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/Connecting_another_file_to_your_root_file.html)
-- [x] [Your first styled webpage](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/A_styled_webpage.html)
-- [ ] [Using heading tags]()
-- [ ] [Using paragraph tags]()
-- [ ] [Creating a div]()
-- [ ] [Commenting lines]()
-- [ ] [Creating a span element]()
-- [ ] [Using break tags]()
-- [ ] [Using horizontal rule tags]()
+
+|Provided [✅] / Pending [❌]|Topics|
+|:---:|:---:|
+|✅|[First Document](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HTMLFirstSteps.html)|
+|✅|[How to add images](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HowToAddImages.html)|
+|✅|[How to add videos](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/How_To_Add_Videos.html)|
+|✅|[How to add links](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/How_To_Add_Links.html)|
+|✅|[Connecting a file to HTML file](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/Connecting_another_file_to_your_root_file.html)|
+|✅|[What is META/how to add META](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/Learning_about_META.html)|
+|✅|[Your first styled webpage](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/A_styled_webpage.html)|
+|❌|[Using heading tags]()|
+|❌|[Using paragraph tags]()|
+|❌|[Creating a div]()|
+|❌|[Commenting lines]()|
+|❌|[Creating a span element]()|
+|❌|[Using break tags]()|
+|❌|[Using horizontal rule tags]()|
 
 ## Secret tricks you might not know! 🤫
-- [x] [The target attribute](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
+- [x] [The target attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
 
 # Thanks for visiting, happy learning!
