@@ -43,7 +43,7 @@ The files have been numbered accordingly to this list. The files may not occur i
 
 ## Secret tricks you might not know! 🤫
 - [x] [The target attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
-- [x] [The translate attribute](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/The-translate-attribute.html)
+- [x] [The translate attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/The-translate-attribute.html)
 
 ## Practice more using these sources:
 - [HTML beginner codepens](https://codepen.io/search/pens?q=html+beginner)
