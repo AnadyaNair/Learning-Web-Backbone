@@ -1,30 +1,27 @@
-<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge"></img>
-<img src="https://img.shields.io/github/last-commit/AnadyaNair/Learning-Web-Backbone?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square"></img>
+<img src="https://img.shields.io/github/last-commit/AnadyaNair/Learning-Web-Backbone?style=flat-square"></img>
 <br> <br>
-<img width="100" src="https://img.shields.io/github/forks/AnadyaNair/Learning-Web-Backbone?style=social"></img>
-<img width="100" src="https://img.shields.io/github/stars/AnadyaNair/Learning-Web-Backbone?style=social"></img>
-<img width="100" src="https://img.shields.io/github/watchers/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+<img src="https://img.shields.io/github/forks/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+<img src="https://img.shields.io/github/stars/AnadyaNair/Learning-Web-Backbone?style=social"></img>
+<img src="https://img.shields.io/github/watchers/AnadyaNair/Learning-Web-Backbone?style=social"></img>
 
 
-## Details:
+## Repository details:
 This is a repository featuring html basics, fun tricks, practice link for beginners at no charge! <br>
-Add/create [issues](https://github.com/AnadyaNair/Learning-Web-Backbone/issues) and consider ``contributing/giving feedback`` to the repository. <br>
-The code is free to copy, believing in *[#DEVCommunity](https://twitter.com/search?q=%23DEVCommunity&src=typeahead_click) [#OpenSource](https://twitter.com/search?q=%23OpenSource&src=typeahead_click)* and learning.
+Create [pull requests](https://github.com/AnadyaNair/Learning-Web-Backbone/pulls) / [issues](https://github.com/AnadyaNair/Learning-Web-Backbone/issues) and consider contributing / giving feedback in the repository, to make it better for beginners to learn. <br>
 
 ## What is HTML about?
-
-HTML is a programming language used to create websites. HTML can also be called backbone of a website in simple words. <br>
+The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. <br>
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/HTML).
+<br>
 We create the structures of webpages in HTML most of the times and style it using another language called CSS. <br>
-In simple words, you can understand it like this with an example: Your bones are HTML, your muscles are CSS and your brain is JavaScript. <br>
-HTML stands for Hyper Text Markup Language. <br>
-The extension for a html file is ".html" <br>
-HTML current version is HTML5.
+In simple words, you can understand it with this example: Your bones are HTML, your muscles are CSS and your brain is JavaScript. <br>
 <hr>
 
 ## Topics covered to learn🌟:
 The files have been numbered accordingly to this list. The files may not occur in number wise order in GitHub, please cooperate if so.
 
-|Provided [✅] / Pending [❌]|Topics|
+|Provided (✅) / Pending (❌)|Topics|
 |:---:|:---:|
 |✅|[First Document](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HTMLFirstSteps.html)|
 |✅|[How to add images](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/HowToAddImages.html)|
@@ -42,14 +39,8 @@ The files have been numbered accordingly to this list. The files may not occur i
 |❌|[Using horizontal rule tags]()|
 
 ## Secret tricks you might not know! 🤫
-- [x] [The target attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
-- [x] [The translate attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/The-translate-attribute.html)
-
-## Practice more using these sources:
-- [HTML beginner codepens](https://codepen.io/search/pens?q=html+beginner)
-- [HTML intermediate codepens](https://codepen.io/search/pens?q=html+intermediate)
-- [HTML advanced codepens (1)](https://codepen.io/search/pens?q=html+advanced)
-- [HTML advanced codepens (2)](https://codepen.io/search/pens?q=html+projects)
+- [The target attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/target_underscore_blank.html)
+- [The translate attribute.](https://github.com/AnadyaNair/Learning-Web-Backbone/blob/main/The-translate-attribute.html)
 
 # Thanks for visiting, happy learning!
 > This repository work was done by [Anadya](https://github.com/AnadyaNair). Thanks for visiting! <br>
